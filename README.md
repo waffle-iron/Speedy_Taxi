@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/SpeedyTaxi/Speedy_Taxi.png?label=ready&title=Ready)](https://waffle.io/SpeedyTaxi/Speedy_Taxi)
 **Speedy Taxi!**
 ===================
 
